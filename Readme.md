@@ -35,7 +35,7 @@ project 1/
     ```
 2. Navigate to the project directory:
     ```bash
-    cd project1
+    cd Sample_Registraion_Login
     ```
 3. Install dependencies:
     ```bash
